@@ -1,2 +1,2 @@
 # Kubernetes_learning
-A repo to earn kubernetes
+A repo to learn kubernetes
