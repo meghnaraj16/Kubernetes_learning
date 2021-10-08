@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod3
+spec:
+  containers:
+  - name: customimage
+    image: arjunachari12/k8s-demo
+    ports:
+    - containerPort: 3000
+  
